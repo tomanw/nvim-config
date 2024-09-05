@@ -4,5 +4,9 @@
 return {
    'folke/todo-comments.nvim',
    dependencies = { 'nvim-lua/plenary.nvim' },
-   opts = {} -- optional
+   opts = {
+      keywords = {
+         DESC = { icon = "", color = "#4064db", alt = { "DESCRIPTION" } }
+      }
+   } -- optional
 }

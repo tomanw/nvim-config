@@ -16,6 +16,7 @@
   "indent-blankline.nvim": { "branch": "master", "commit": "db926997af951da38e5004ec7b9fbdc480b48f5d" },
   "kanagawa.nvim": { "branch": "master", "commit": "f491b0fe68fffbece7030181073dfe51f45cda81" },
   "lazy.nvim": { "branch": "main", "commit": "077102c5bfc578693f12377846d427f49bc50076" },
+  "lualine.nvim": { "branch": "master", "commit": "b431d228b7bbcdaea818bdc3e25b8cdbe861f056" },
   "material.nvim": { "branch": "main", "commit": "b5d0ff3ad37ba00cea3dc3dce0b0f555b481c6f4" },
   "neovim": { "branch": "main", "commit": "8b1fd252255a7f2c41b4192a787ab62660b29f72" },
   "nightfox.nvim": { "branch": "main", "commit": "d3e8b1acc095baf57af81bb5e89fe7c4359eb619" },
